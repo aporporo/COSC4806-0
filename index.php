@@ -6,8 +6,10 @@
     <h1>PHP TEST</h1>
     <?php echo '<p>Hello World</p>'; 
     
-   echo "hello"
+   echo "This is a test"
     ?> 
+
+    
 
     
 
